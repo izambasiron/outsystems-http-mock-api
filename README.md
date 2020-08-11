@@ -21,6 +21,19 @@ Congratulations, your API is up and running! You will get a URL like below.
 ```
 http://<your-firebase-project>/api
 ```
+## Run Locally
+
+You can also run this API locally by using the following command:
+
+```bash
+> firebase serve --host 0.0.0.0
+```
+
+You can access it like below.
+
+```
+http://<your-local-ip>:5000/outsystems-advanced-http-api/us-central1/api
+```
 
 ## Service Center
 
